@@ -43,7 +43,7 @@
     
     func commonInit() {
       knobView = KnobView()
-      knobView.frame = CGRectMake(0, 0, 30, 30)
+      knobView.frame = CGRectMake(0, 0, 40, 40)
       
       self.addSubview(knobView)
     }
